@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">textView06022020</string>
+    <string name="MainButton">Click me to enter!</string>
+    <string name="EnterField">Enter Information here!</string>
+    <string name="EditText">Enter the information here!</string>
+    <string name="Hint">Enter Information here!</string>
+</resources>
